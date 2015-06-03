@@ -17,6 +17,7 @@ A simple Agar.io clone built with socket.io and HTML5 Canvas on top of NodeJS.
 [![Heroku EU](https://img.shields.io/badge/heroku eu-online-green.svg)](https://agar-clone.herokuapp.com/) "
 [![Heroku US](https://img.shields.io/badge/heroku us-online-green.svg)](https://agar-clone-us.herokuapp.com/) "
 [![Cloud9](https://img.shields.io/badge/cloud9-online-green.svg)](https://agar-io-clone-d3vont3ch.c9.io/)
+[![Travis](https://img.shields.io/travis/joyent/ts3bahu.svg)](http://agar.ts3bahu.com:3000)
 
 ---
 
